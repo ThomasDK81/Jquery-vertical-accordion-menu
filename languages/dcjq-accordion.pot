@@ -1,0 +1,139 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery Vertical Accordion Menu v3.1.2\n"
+"POT-Creation-Date: 2015-10-28 20:33+0100\n"
+"PO-Revision-Date: 2015-10-28 20:20+0100\n"
+"Last-Translator: ThomasDK81 <thomasdk81@gmail.com>\n"
+"Language-Team: ThomasDK81 <thomasdk@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;_ex;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dcwp_jquery_accordion_widget.php:10
+msgid "jQuery Accordion Menu"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:11
+msgid "Vertical Accordion From Custom Menus"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:21
+msgid "Custom Menu"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:155
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:160
+msgid "Title:"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:164
+msgid "Select Menu:"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:176
+msgid "Click"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:178
+msgid "Hover"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:182
+msgid "Auto Close Open Menus"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:185
+msgid "Save Menu State (uses cookies)"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:188
+msgid "Auto Expand Based on Current Page/Item"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:191
+msgid "Disable Parent Links"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:194
+msgid "Close Menu (hover only)"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:197
+msgid "Show Count"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:200
+msgid "Menu Class:"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:204
+msgid "Disable Class:"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:208
+msgid "Hover Delay:"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:210
+msgid "No Delay"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:211
+msgid "0.2 sec"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:212
+msgid "0.4 sec"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:213
+msgid "0.6 sec"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:214
+msgid "0.8 sec"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:215
+msgid "1.0 sec"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:219
+msgid "Animation Speed:"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:221
+msgid "Slow"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:222
+msgid "Normal"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:223
+msgid "Fast"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:227
+msgid "Skin:"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:232
+msgid "No theme"
+msgstr ""
+
+#: dcwp_jquery_accordion_widget.php:250
+msgid "Visit plugin site"
+msgstr ""

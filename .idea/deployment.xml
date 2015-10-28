@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="127.0.0.1/ilcms">
+    <serverData>
+      <paths name="127.0.0.1/ilcms">
+        <serverdata>
+          <mappings>
+            <mapping deploy="plugins\jquery-vertical-accordion-menu" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
