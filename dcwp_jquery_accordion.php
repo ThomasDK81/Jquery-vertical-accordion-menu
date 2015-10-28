@@ -39,6 +39,12 @@ class dc_jqaccordion {
 
 };
 
+//Locale
+function dc_jqaccordion_load_textdomain() {
+	load_plugin_textdomain( 'dcjq-accordion', false, plugin_basename( dirname( __FILE__ ) ) . '/languages' );
+}
+add_action( 'plugins_loaded', 'dc_jqaccordion_load_textdomain' );
+
 // Include the widget
 include_once('dcwp_jquery_accordion_widget.php');
 
