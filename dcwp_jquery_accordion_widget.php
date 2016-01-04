@@ -265,7 +265,7 @@ class dc_jqaccordion_widget extends WP_Widget {
 					$skin = $wpdcjqaccordion['skin'];
 					$skin = htmlspecialchars(ucfirst(preg_replace('/\..*$/', '', $skin)));
 					if($skin != 'No-theme'){
-						echo "\n\t<link rel=\"stylesheet\" href=\"".dcjq-accordion::get_plugin_directory()."/skin.php?widget_id=".$key."&amp;skin=".strtolower($skin)."\" type=\"text/css\" media=\"screen\"  />";
+						echo "\n\t<link rel=\"stylesheet\" href=\"".plugins_url()."/jquery-vertical-accordion-menu/skin.php?widget_id=".$key."&amp;skin=".strtolower($skin)."\" type=\"text/css\" media=\"screen\"  />";
 					}
 				}
 			}
